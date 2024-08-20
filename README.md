@@ -12,6 +12,7 @@ Arquivos existentes em CSS:
 
 1. Arquivo com CSS externo
 2. Arquivo com CSS Inline
+3. Arquivo com CSS interno
 
 
    
