@@ -10,6 +10,8 @@ Repositório focado em meus projetos na linguagem CSS
 
 Arquivos existentes em CSS:
 
-1.Arquivo de CSS externo
+1. Arquivo com CSS externo
+2. Arquivo com CSS Inline
+
 
    
