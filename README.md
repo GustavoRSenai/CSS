@@ -13,6 +13,8 @@ Arquivos existentes em CSS:
 1. Arquivo com CSS externo
 2. Arquivo com CSS Inline
 3. Arquivo com CSS interno
+4. Como usar classe e id no CSS
+5. Como mudar cores no CSS
 
 
    
