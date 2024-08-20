@@ -1,6 +1,6 @@
 ## 🖥️Projetos CSS🖥️
 
-Repositório focado em meus projetos na linguagem HTML
+Repositório focado em meus projetos na linguagem CSS
 
 ###
 
@@ -10,6 +10,6 @@ Repositório focado em meus projetos na linguagem HTML
 
 Arquivos existentes em CSS:
 
-1.
+1.Arquivo de CSS externo
 
    
