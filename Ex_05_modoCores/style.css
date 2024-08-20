@@ -1,0 +1,29 @@
+/* alterando Cor por nome */
+.nome{
+    color: orange;
+    background-color: green;
+}
+
+/* alterando cor por decimal */
+.hexadecimal{
+    color: #6d098f;
+    background-color: #32d13a;
+}
+
+/* alterando cor por rgba */
+.rgba{
+    color: rgba(50, 209, 58, 1);
+    background-color: rgb(50, 209, 58, 0.342);
+}
+
+/* alterando a segunda pagina */
+.titulo-background{
+    color: purple;
+    background-color: lightblue;
+}
+
+/* adicionando fundo */
+.div-background{
+    background-image: url(download.jpg);
+    height: 1000px;
+}
