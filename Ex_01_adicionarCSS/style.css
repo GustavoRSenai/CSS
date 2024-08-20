@@ -1,0 +1,10 @@
+/* usando css externo */
+h1{
+    color: blue; font-size: 42px;
+}
+h2{
+    color: purple; font-size: 42px; 
+}
+p{
+    color: dimgray; font-size: 25px;
+}
