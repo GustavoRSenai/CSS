@@ -1,0 +1,12 @@
+.position{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-bottom: 3px dashed darkblue;
+}
+.static{
+    /* o static faz o box n se mover */
+    border-right: 5px solid;
+    position: static;
+    top: 20px;
+}
