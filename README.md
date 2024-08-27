@@ -20,4 +20,5 @@ Arquivos existentes em CSS:
 8. Border, Padding e Margin no CSS
 9. Posição estática CSS
 10. Posição relativa CSS
-11. posição absoluta CSS
+11. Posição absoluta CSS
+12. Posição fixa CSS
