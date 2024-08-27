@@ -1,0 +1,54 @@
+.position{
+    width: 200px;
+    height: 500px;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+.static{
+    /* fica parado para sempre, fica no flow do html */
+    position: static;
+}
+.relative{
+    /* fica posicionado em relação a algo, fica no flow do html e pode usar top, left, bottom e right*/
+    position: relative;
+    background-color: aqua;
+    top: 30px;
+    left: 50px;
+}
+.absolute{
+    /* é indenpendente então pode ir para qualquer posição dentro de sua divisão, fica no flow do html e pode usar top, left, bottom e right */
+    position: absolute;
+    background-color: red;
+    top: 0;
+    right: 0;
+}
+.mini-div{
+    width: 30px;
+    height: 30px;
+    border: 2px dotted goldenrod;
+    top: 0;
+    left: 0;
+}
+.fixed{
+    /* fica fixo mesmo ao descer a tela respeitando o tamanho exibido*/
+    position: fixed;
+    width: 150px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border: 2px solid black;
+    bottom: 37px;
+    right: 200px;
+}
+.sticky{
+    /* fica grudado ao local escolho ex: topo, segue o flow da tela */
+    width: 250px;
+    height: 50px;
+    background-color: dimgray;
+    position: sticky;
+    left: 300px;
+    top: 0;
+    margin-top: 0;
+}
+body{
+    margin: 0;
+}
