@@ -1,0 +1,36 @@
+body{
+    /* margem de todo o site */
+    margin: 0; 
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    /* acochoamento */
+    padding: 30px 30px;
+    /* bordas */
+    border: 3px dotted darkorange;
+    border-left: 15px dashed red;
+    /* arredondar cantos */
+    border-radius: 50px;
+    /* margem da pagina porem apenas na caixa */
+    margin: 30px;
+}
+.boxmodel1{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    /* acochoamento */
+    padding: 30px 30px;
+    /* bordas */
+    border: 3px dotted black;
+    border-left: 15px dashed gray;
+    /* arredondar cantos */
+    border-radius: 50px;
+    /* margem da pagina porem apenas na caixa */
+    margin: 30px;
+}
+.paragrafo-box{
+    color: white;
+}
