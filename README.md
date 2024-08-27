@@ -22,3 +22,4 @@ Arquivos existentes em CSS:
 10. Posição relativa CSS
 11. Posição absoluta CSS
 12. Posição fixa CSS
+13. Posição sticky CSS
