@@ -16,6 +16,6 @@ Arquivos existentes em CSS:
 4. Como usar classe e id no CSS
 5. Como mudar cores no CSS
 6. Animações no CSS
-
+7. Animações com tempo CSS
 
    
