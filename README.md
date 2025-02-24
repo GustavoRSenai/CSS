@@ -7,6 +7,12 @@ Repositório focado em meus projetos na linguagem CSS
 
 #
 
+## O que é CSS:
+
+CSS (Cascading Style Sheets) é uma linguagem usada para estilizar e formatar a aparência de um documento HTML. Enquanto o HTML cuida da estrutura e do conteúdo da página, o CSS é responsável por definir como esse conteúdo será exibido — como as cores, fontes, tamanhos, espaçamentos, alinhamentos e outras características visuais.
+
+Com o CSS, é possível alterar o estilo de qualquer elemento HTML, tornando o site mais bonito e dinâmico. Ele permite separar a estrutura da apresentação, facilitando a manutenção e o design do site.
+
 ### Arquivos existentes em CSS: ###
 
 1. Arquivo com CSS externo
